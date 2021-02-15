@@ -6,9 +6,10 @@ apt-get install vim
 apt-get install tmux
 apt-get install tldr
 apt-get install gnuradio
+apt-get install autojump
 sudo apt-get install python3-notebook jupyter jupyter-core 
 
-ln -s dotfiles/.bashrc .bashrc
-ln -s dotfiles/.vimrc .vimrc
+ln -s dotfiles/.bashrc .bashrc -f
+ln -s dotfiles/.vimrc .vimrc -f
 
 source .bashrc 
