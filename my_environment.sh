@@ -7,6 +7,7 @@ apt-get install tmux
 apt-get install tldr
 apt-get install gnuradio
 apt-get install autojump
+apt-get install gqrx-sdr
 apt-get install nginx
 sudo apt-get install python3-notebook jupyter jupyter-core 
 

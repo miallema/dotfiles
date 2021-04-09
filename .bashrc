@@ -93,6 +93,7 @@ fi
 #alias l='ls -CF'
 alias web="source /home/pi/web/bin/activate"
 alias python="python3"
+alias examples="cd /usr/share/gnuradio/examples/"
 
 # Alias definitions.
 # You may want to put all your additions into a separate file like
