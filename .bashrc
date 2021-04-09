@@ -91,7 +91,7 @@ fi
 #alias ll='ls -l'
 #alias la='ls -A'
 #alias l='ls -CF'
-alias web="source web/bin/activate"
+alias web="source /home/pi/web/bin/activate"
 alias python="python3"
 
 # Alias definitions.
