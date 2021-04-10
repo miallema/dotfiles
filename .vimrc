@@ -11,6 +11,9 @@
 " `vim -u foo`).
 set nocompatible
 
+" Set tabspace and shiftwidth to 4 spaces.
+set ts=4 sw=4
+
 " Turn on syntax highlighting.
 syntax on
 
