@@ -91,7 +91,7 @@ fi
 #alias ll='ls -l'
 #alias la='ls -A'
 #alias l='ls -CF'
-alias web="source /home/pi/web/bin/activate"
+alias venv="source /home/pi/microblog/venv/bin/activate"
 alias python="python3"
 alias examples="cd /usr/share/gnuradio/examples/"
 

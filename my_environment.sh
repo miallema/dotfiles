@@ -9,6 +9,7 @@ apt-get install gnuradio
 apt-get install autojump
 apt-get install gqrx-sdr
 apt-get install nginx
+apt-get install certbot
 sudo apt-get install python3-notebook jupyter jupyter-core 
 
 ln -s dotfiles/.bashrc .bashrc -f
