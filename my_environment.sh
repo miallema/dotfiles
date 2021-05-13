@@ -10,7 +10,10 @@ apt-get install autojump
 apt-get install gqrx-sdr
 apt-get install nginx
 apt-get install certbot
-sudo apt-get install python3-notebook jupyter jupyter-core 
+apt-get install python3-notebook jupyter jupyter-core 
+apt-get install postfix supervisor
+apt-get install -y ufw
+apt-get install mariadb-server
 
 ln -s dotfiles/.bashrc .bashrc -f
 ln -s dotfiles/.vimrc .vimrc -f
