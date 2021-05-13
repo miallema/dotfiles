@@ -12,7 +12,7 @@
 set nocompatible
 
 " Set tabspace and shiftwidth to 4 spaces.
-set ts=4 sw=4
+set tabstop=8 softtabstop=0 expandtab shiftwidth=4 smarttab
 
 " Turn on syntax highlighting.
 syntax on
