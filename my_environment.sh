@@ -7,6 +7,7 @@ apt-get install tmux
 apt-get install tldr
 apt-get install gnuradio
 apt-get install gqrx-sdr
+apt-get install rtl-sdr
 apt-get install nginx
 apt-get install certbot
 apt-get install python3-notebook 
