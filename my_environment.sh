@@ -9,7 +9,10 @@ apt-get install gnuradio
 apt-get install gqrx-sdr
 apt-get install rtl-sdr
 apt-get install nginx
-apt-get install certbot
+apt-get install snapd
+snap install core
+snap refresh core
+snap install --classic certbot
 apt-get install python3-notebook 
 apt-get install jupyter 
 apt-get install jupyter-core 
@@ -20,5 +23,6 @@ apt-get install mariadb-server
 
 ln -s dotfiles/.bashrc .bashrc -f
 ln -s dotfiles/.vimrc .vimrc -f
+ln -s /snap/bin/certbot /usr/bin/certbot
 
 source .bashrc 
