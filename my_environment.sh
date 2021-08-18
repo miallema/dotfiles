@@ -2,6 +2,9 @@
 
 apt-get update && apt-get upgrade
 
+apt-get install python3-pip
+apt-get install python3-venv
+
 apt-get install vim
 apt-get install tmux
 apt-get install tldr
