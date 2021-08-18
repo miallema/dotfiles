@@ -22,10 +22,9 @@ apt-get install ufw
 apt-get install mariadb-server
 apt-get install clang
 apt-get install cmake
-apt-get install
-apt-get libboost-all-dev
-apt-get libprotobuf-dev 
-apt-get protobuf-compiler
+apt-get install libboost-all-dev
+apt-get install libprotobuf-dev 
+apt-get install protobuf-compiler
 
 ln -s dotfiles/.bashrc .bashrc -f
 ln -s dotfiles/.vimrc .vimrc -f
