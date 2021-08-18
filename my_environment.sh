@@ -20,6 +20,8 @@ apt-get install postfix
 apt-get install supervisor
 apt-get install ufw
 apt-get install mariadb-server
+apt-get install clang
+apt-get install cmake
 
 ln -s dotfiles/.bashrc .bashrc -f
 ln -s dotfiles/.vimrc .vimrc -f
