@@ -2,9 +2,6 @@
 
 apt-get update && apt-get upgrade
 
-apt-get install python3-pip
-apt-get install python3-venv
-
 apt-get install vim
 apt-get install tmux
 apt-get install tldr
@@ -23,11 +20,6 @@ apt-get install postfix
 apt-get install supervisor
 apt-get install ufw
 apt-get install mariadb-server
-apt-get install clang
-apt-get install cmake
-apt-get install libboost-all-dev
-apt-get install libprotobuf-dev 
-apt-get install protobuf-compiler
 
 ln -s dotfiles/.bashrc .bashrc -f
 ln -s dotfiles/.vimrc .vimrc -f
